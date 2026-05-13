@@ -1,0 +1,126 @@
+  1  uname
+    2  ls
+    3  ls shannu
+    4  pwd
+    5  mkdir
+    6  mkdir shanmukh
+    7  ls -l
+    8  cd shanmukh
+    9  cat shannu
+   10  rm shannu
+   11  ls
+   12  ls -l
+   13  nano nun
+   14  ls
+   15  nano num
+   16  ls
+   17  vim num1
+   18  ls
+   19  vim num1
+   20  ls
+   21  touch num3
+   22  ls
+   23  nano num3
+   24  ls
+   25  more num3
+   26  cat num3
+   27  rm num1
+   28  ls
+   29  cat num3
+   30  cat num
+   31  cp num3 num
+   32  cat num
+   33  cat num3
+   34  mv num3 num
+   35  ls
+   36  uname
+   37  locate num
+   38  locate num3
+   39  ps
+   40  echo "shannu:
+   41  echo
+   42  whoami
+   43  sort shannu
+   44  sort num
+   45  cal
+   46  pwd
+   47  ls
+   48  ls-al
+   49  ls -al
+   50  cd dir
+   51  cd
+   52  mkdir shannu
+   53  ls
+   54  ls -l
+   55  ls -al
+   56  pwd
+   57  rm file
+   58  echo "hi
+   59  "
+   60  ls
+   61  ls -l
+   62  mkdir shannu
+   63  mkdir
+   64  pwd shanmukh
+   65  cat
+   66  touch file2
+   67  rm touch file2
+   68  rm file2
+   69  ls
+   70  history
+   71  ls
+   72  cd shannu
+   73  ls
+   74  cd ..
+   75  ls
+   76  cd shanmukh
+   77  ls
+   78  cat num
+   79  more num
+   80  grey "how" num
+   81  grep "how" num
+   82  nano num
+   83  cat num
+   84  grep "you" num
+   85  grep -c "you" num
+   86  grep -1 "you" *
+   87  grep -c are
+   88  grep -c "are" num
+   89  grep "are" num
+   90  grep -o "are" num
+   91  grep -w "are" num
+   92  grep -n "are" num
+   93  grep -l "are" *
+   94  grep -v "are" num
+   95  grep "^are" num
+   96  grep "os$" num
+   97  grep -i "are" num
+   98  history
+   99  ls
+  100  cd ..
+  101  cd shannu
+  102  cd ..
+  103  ls
+  104  ls -l
+  105  cd shannu
+  106  cat shannu
+  107  ls
+  108  nano shannu
+  109  nano linux-commands
+  110  cat linux-commands
+  111  pwd linux-commands
+  112  git --version
+  113  ls
+  114  git init
+  115  ls
+  116  ls -l
+  117  ls -al
+  118  git config --global init.defaultBranch <name>
+  119  git config --global init.defaultBranch main
+  120  git init
+  121  ls -al
+  122  git clone https://github.com/dshanmukhraj1706-ux/linux-basic-commands.git
+  123  ls
+  124  cd linux-basic-commands/
+  125  ls
+  126  history
